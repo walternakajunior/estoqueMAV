@@ -1,1 +1,2 @@
-# estoqueMAV
+<h1><img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Levantamento de estoque com Python</h1><br>
+Script para <i>scrapping</i> no sistema MAV através de Python, para o levantamento das informações de <strong>Saldo Físico</strong>, <strong>Saldo Financeiro</strong>, <strong>Entradas no mês</strong> e <strong>Saídas no mês</strong>.
